@@ -1,0 +1,1 @@
+../images/demos/mwin/mwdialog/mwdialog.res
