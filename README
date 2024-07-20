@@ -1,3 +1,0 @@
-Run build.sh on Linux
-Run qemu-system-86_64 boot.img -vga cirrus
-When it asks for boot use: /bzImage rw root=dev/sda
